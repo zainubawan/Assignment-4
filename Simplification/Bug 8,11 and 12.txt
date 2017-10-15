@@ -1,0 +1,8 @@
+Bugs 8, 11 and 12 are customized options to add in the program.
+They do not exist in the program hence there cant be any tests 
+conducted to show their buggy behaviour.
+Test code for the rest of the bugs has been submitted since it
+already existed in the original program causing it to notfunction properly.
+
+Bugs 8, 11 and 12 will increase program functionality but without them the
+program is still working up to its potential.
